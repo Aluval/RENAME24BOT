@@ -36,7 +36,7 @@ class mr(object):
     ABOUT_TXT = """
 ╭───────────⍟
 ├🤖 𝙼𝚈 𝙽𝙰𝙼𝙴 : {}
-├👑 𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁𝚂 : <a href=https://t.me/sunriseseditsoffical6>RENAME24BOT</a> 
+├👑 𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁 : <a href=https://t.me/sunriseseditsoffical6>RENAME24BOT</a> 
 ├👨‍💻 𝙿𝚁𝙾𝙶𝚁𝙰𝙼𝙴𝚁 : <a href=https://t.me/sunriseseditsoffical6>SUNRISESHARSHA</a>
 ├📕 𝙻𝙸𝙱𝚁𝙰𝚁𝚈 : <a href=https://github.com/pyrogram>𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼</a>
 ├✏️ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴 : <a href=https://www.python.org>𝙿𝚈𝚃𝙷𝙾𝙽 3</a>
@@ -68,10 +68,10 @@ Example:- /set_caption 📕 File Name: {filename}
 #⚠️ don't remove our credits 🙏😢😢
     DEV_TXT = """
 
-
-» MAIN CHANNEL : <a href=https://t.me/sunriseseditsoffical6>SUNRISESEDITSOFFICAL6</a>
-• ❣️ <a href=https://t.me/SH24_AdminBot>SUNRISES HARSHA</a>
+• ❣️ <a href=https://t.me/SH24_AdminBot>𝗦𝗨𝗡𝗥𝗜𝗦𝗘𝗦 𝗛𝗔𝗥𝗦𝗛𝗔✨</a>
 """
+
+
 
 
 

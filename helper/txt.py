@@ -41,7 +41,7 @@ class mr(object):
 ├📕 𝙻𝙸𝙱𝚁𝙰𝚁𝚈 : <a href=https://github.com/pyrogram>𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼</a>
 ├✏️ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴 : <a href=https://www.python.org>𝙿𝚈𝚃𝙷𝙾𝙽 3</a>
 ├💾 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴 : <a href=https://cloud.mongodb.com>𝙼𝙾𝙽𝙶𝙾𝙳𝙱</a>
-├📊 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚄𝚂 : v2.1.90 [ ꜱɪɢᴍᴀ 🗿 ]              
+├📊 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚄𝚂 : v2.1.90       
 ╰───────────────⍟
                                 """
     HELP_TXT = """
@@ -67,11 +67,11 @@ Example:- /set_caption 📕 File Name: {filename}
 
 #⚠️ don't remove our credits 🙏😢😢
     DEV_TXT = """
-<b><u>Special Thanks & Developers</b></u> 
+
 
 » MAIN CHANNEL : <a href=https://t.me/sunriseseditsoffical6>SUNRISESEDITSOFFICAL6</a>
-
-
-
 • ❣️ <a href=https://t.me/SH24_AdminBot>SUNRISES HARSHA</a>
 """
+
+
+
